@@ -1,0 +1,28 @@
+# macOS junk
+.DS_Store
+
+# PyCharm project files
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments (if any)
+.venv/
+venv/
+env/
+ENV/
+
+# Poetry lock file
+# poetry.lock
+
+# Dist and packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
