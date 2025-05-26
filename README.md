@@ -8,7 +8,7 @@ A FastAPI-powered service that applies a multi-language
 template and returns a zipped project.
 
 This API is designed to work with the 
-[LUMC-DCC cookiecutter templates](https://github.com/LUMC-DCC/cc-template) repository, 
+[LUMC-DCC cookiecutter templates](https://github.com/LUMC-DCC/cookiecutter-templates) repository, 
 which provides subdirectory-based language templates (e.g., Python, R).
 
 ## Endpoints
